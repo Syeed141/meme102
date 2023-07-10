@@ -1,0 +1,31 @@
+*{
+    background-color: black;
+}
+
+h1{
+    font-family: Libre Baskerville, serif;
+    color: white;
+    text-align: center;
+    
+}
+img{
+
+height: 400px;
+width:100%;
+border: 5px solid white;
+align-self: center;
+margin-left: ;
+
+}
+p{
+    color: white;
+    text-align: center;
+}
+
+div{
+height: 700px;
+width:550px;
+margin-left: 22%;
+margin-top: 100px;
+
+}
